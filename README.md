@@ -1,2 +1,2 @@
-# visualization
+# visualization-sample store
 Sample store
